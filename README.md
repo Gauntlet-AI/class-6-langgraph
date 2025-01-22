@@ -1,11 +1,11 @@
-# Week 6.1: LangGraph
+# Class 6: LangGraph
 
 ## Introduction
 LangGraph is a library designed to create complex applications using large language models (LLMs). It enables developers to build systems where various AI components interact and maintain state.
 
 ## Slides
 
-[Slides](https://docs.google.com/presentation/d/1QQC4T1q-JoYLlZc781xeUm411ZbJ0eBXY1xMvYH1SX4/edit?usp=sharing)
+[Slides]()
 
 ## Prerequisites
 Before you begin, ensure you have met the following requirements:
