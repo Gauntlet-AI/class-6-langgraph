@@ -5,7 +5,7 @@ LangGraph is a library designed to create complex applications using large langu
 
 ## Slides
 
-[Slides]()
+[Slides](https://docs.google.com/presentation/d/1wB-sQVgy_XsSMASRbOqWOiU_x6gnhvqSF77V0W05NVQ/edit?usp=sharing)
 
 ## Prerequisites
 Before you begin, ensure you have met the following requirements:
